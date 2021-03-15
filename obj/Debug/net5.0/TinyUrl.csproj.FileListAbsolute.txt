@@ -1,0 +1,16 @@
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.exe
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.deps.json
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.runtimeconfig.json
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.runtimeconfig.dev.json
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.dll
+B:\GitHub\TinyUrl\bin\Debug\net5.0\ref\TinyUrl.dll
+B:\GitHub\TinyUrl\bin\Debug\net5.0\TinyUrl.pdb
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.csprojAssemblyReference.cache
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.AssemblyInfoInputs.cache
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.AssemblyInfo.cs
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.csproj.CoreCompileInputs.cache
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.dll
+B:\GitHub\TinyUrl\obj\Debug\net5.0\ref\TinyUrl.dll
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.pdb
+B:\GitHub\TinyUrl\obj\Debug\net5.0\TinyUrl.genruntimeconfig.cache
